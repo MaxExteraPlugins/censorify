@@ -2,7 +2,7 @@
 __id__ = "censorify"
 __name__ = "Censorify"
 __description__ = "Locally replaces profanity with selected characters in all messages."
-__version__ = "1.6.3"
+__version__ = "1.6.4"
 __min_version__ = "12.10.6"
 __author__ = "@itNotMax - @MaxExteraPlugins"
 __icon__ = "MaxExteraPluginsStickers/15"
